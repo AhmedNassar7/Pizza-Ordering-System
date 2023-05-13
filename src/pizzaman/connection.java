@@ -1,10 +1,3 @@
-/*
-* Mahmoud Abdelazim Mohamed - 12100136 - Class 15
-* Mahmoud Shehata Ahmed - 12100490 - Class 15
-* Ahmed Kamal Arafat - 12100530 - Class 15
-* Youssef Wael Selmy - 12100384 - Class 15
-*/
-
 package pizzaman;
 
 
