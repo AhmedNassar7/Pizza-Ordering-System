@@ -1,5 +1,5 @@
 ## Pizza Ordering System (DijkstraMap)
-### A system for ordering a pizza with a database for every user. A good Gui design that applies the main concepts of UI design.
+### Efficient pizza ordering system with user databases, employing Java for algorithms, Java Swing for GUI, and MS SQL Server for robust database management. Streamlined UI design reflects core principles for an intuitive user experience.
 
 ### Technologies used in the application:
 #### 1- Algorithms and Data Structures with Java.
